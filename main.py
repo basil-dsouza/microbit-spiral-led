@@ -1,5 +1,3 @@
-
-
 def on_button_pressed_b():
     for x1 in [2, 1]:
         basic.pause(100)
